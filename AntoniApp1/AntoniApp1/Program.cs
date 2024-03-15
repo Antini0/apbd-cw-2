@@ -8,9 +8,12 @@ Console.WriteLine("MOD 3");
 static double GetAverage(int[] numbers)
 {
     int sum = 0;
+<<<<<<< HEAD
     foreach (var num2 in numbers)
     {
         sum += num2;
+=======
+
     }
 
     sum = sum / numbers.Length;
