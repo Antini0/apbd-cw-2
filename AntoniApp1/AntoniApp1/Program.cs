@@ -22,3 +22,4 @@ int[] nums = {1, 2,3 ,4};
 double avg = GetAverage(nums);
 Console.WriteLine(avg);
 int a = 5;
+bool b = false;
