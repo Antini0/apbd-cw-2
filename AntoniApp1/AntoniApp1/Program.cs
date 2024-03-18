@@ -33,7 +33,3 @@ Console.WriteLine(avg);
 int a = 5;
 bool b = false;
 
-static int findMax(int[] nums)
-{
-    for
-}
